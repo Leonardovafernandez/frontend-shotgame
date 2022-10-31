@@ -1,0 +1,111 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./assets/SHOTGAME.png);
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  min-height: 100vh;
+
+  font-size: 20px;
+  text-align: center;
+
+  font-family: sans-serif;
+}
+
+.caixa {
+  background-color: #FFDECA;
+  border-radius: 50px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.caixinha {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+h1 {
+  font-family: 'Londrina Shadow', cursive;
+  font-size: 62px;
+  color: #E85D07;
+  text-decoration: dashed;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  color: #4E486E;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #E85D07;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+button {
+  height: 48px;
+  width: 150px;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #FF6F16;
+  color: white;
+  border-radius: 24px;
+  padding: 8px;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.container-boxes {
+  display: flex;
+}
+
+.orange {
+  margin-top: 0px;
+}
+
+.box {
+  margin: 0px 10px;
+  width: 80px;
+  height: 115px;
+  padding: 0px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.box img {
+  width: 80px;
+  height: 115px;
+  border: 4px solid #FF6F16;
+  border-radius: 15px;
+}
+
+.container-random {
+  height: 50vh;
+}
+
+.selected {
+  /* border: 8px solid #4E486E; */
+  border-radius: 15px;
+}
+
+.normal {
+  border: none;
+}
