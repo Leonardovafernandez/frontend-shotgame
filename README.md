@@ -1,4 +1,4 @@
-# shotgame
+# SHOTGAME
 
 Esse é o SHOTGAME o jogo ideal para se divertir no encontro de amigos. Esse jogo consiste em a cada rodada uma pessoa escolhe uma das 4 bebidas e clica para sortear, caso a bebida escolhida seja a bebida sorteada você pode escolher alguém que esteja participando para beber, caso você erre, quem bebe é você.
 
