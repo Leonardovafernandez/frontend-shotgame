@@ -29,5 +29,5 @@ O Shotgame é um projeto resultado da aplicação dos estudos em HTML e CSS unid
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]https://www.canva.com/design/DAFQnig2kCI/FyvZbxjMwV9teR7c7jYi6Q/view?utm_content=DAFQnig2kCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.canva.com/design/DAFQnig2kCI/FyvZbxjMwV9teR7c7jYi6Q/view?utm_content=DAFQnig2kCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
