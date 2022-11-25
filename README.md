@@ -1,7 +1,7 @@
 <h1 align="center"> SHOTGAME </h1>
 
 <p align="center">
-Jogo desenvolvido como forma de estudo e desevolvimento das tecnologias de HTML e CSS.
+Jogo desenvolvido como forma de estudo e desevolvimento das tecnologias de HTML, CSS e JavaScript.
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@ Jogo desenvolvido como forma de estudo e desevolvimento das tecnologias de HTML 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+- JavaScript
 - Git e Github
 
 ## 💻 Projeto
