@@ -13,7 +13,7 @@ Jogo desenvolvido como forma de estudo e desevolvimento das tecnologias de HTML,
 <br>
 
 <p align="center">
-  <img alt="SHOTGAME" src="assets/SHOTGAME.png" width="100%">
+  <img alt="SHOTGAME" src="assets/SHOTGAME_CAPA.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
